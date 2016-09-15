@@ -9,6 +9,7 @@
     "jade": "*",
     "express": "*",
     "mongoose": "~3.6.13",
+    "mongodb": "^2.1.6",
     "body-parser": "*",
     "method-override":"*",
     "errorhandler":"*",
